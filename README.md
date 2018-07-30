@@ -1,2 +1,2 @@
-# Turma-STL-List
+# Turma STL List
 Gerenciamento de Turmas com List
